@@ -1,6 +1,6 @@
 header{ height: 70px;}
 @font-face {
-  font-family: AppleSDGothicNeoT00;
+  font-family: AppleSDGothicNeoT00,Gothic;
   src: url(C:\Windows\Fonts\AppleSDGothicNeoT00.ttf);
 }
 body{
